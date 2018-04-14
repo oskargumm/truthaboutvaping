@@ -1,0 +1,21 @@
+
+document.write('\
+\
+<nav class="navbar navbar-expand-sm navbar-light">\
+  <a class="navbar-brand" href="index.html">TruthAboutVaping</a>\
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNav" aria-controls="mainNav" aria-expanded="false" aria-label="Toggle navigation">\
+        <span class="navbar-toggler-icon"></span>\
+      </button>\
+    <div class="collapse navbar-collapse" id="mainNav">\
+      <div class="navbar-nav ml-auto">\
+      <a class="nav-item nav-link" href="index.html">Vapeblog</a>\
+      <a class="nav-item nav-link" href="research.html">Research</a>\
+      <a class="nav-item nav-link" href="diy.html">DIY</a>\
+      <a class="nav-item nav-link" href="about.html">About</a>\
+      </div>\
+    </div>\
+</nav>\
+<div class="container" style="height: 50px"></div>\
+\
+\
+');

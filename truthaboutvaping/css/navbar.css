@@ -1,0 +1,36 @@
+nav {
+  background-color: #110E11;
+  position:fixed !important;
+  width:100%;
+  z-index:1;
+}
+nav a {
+  color: white !important;
+}
+
+.navbar-light .navbar-toggler-icon{
+  background-color: white !important;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #479FC5 !important;
+}
+nav a:hover {
+  color: #479FC5 !important;
+}
+
+
+body {
+  background-color: #e3e3e3;
+  font-family: 'Merriweather', serif;
+
+}
+a:link {
+  color: #110E11;
+}
+a:hover {
+  text-decoration-color: #479FC5;
+}
+div.media-body {
+  color: #110E11;
+}
